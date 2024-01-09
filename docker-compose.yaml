@@ -4,6 +4,6 @@ services:
     client:
         image: nginx
         ports:
-            - 8001:80
+            - 80:80
         volumes:
-            - ./src:/usr/share/nginx/html
+            - ./docs:/usr/share/nginx/html
