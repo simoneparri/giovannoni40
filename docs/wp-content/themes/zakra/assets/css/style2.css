@@ -3850,16 +3850,16 @@ body {
 @font-face {
   font-display: swap;
   font-family: FontAwesome;
-  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.eot%3Fv=4.7.0');
-  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.eot%3F')
+  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.eot');
+  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.eot')
       format('embedded-opentype'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2')
       format('woff2'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.woff%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.woff')
       format('woff'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf')
       format('truetype'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.svg%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/themes/zakra/assets/lib/font-awesome/fonts/fontawesome-webfont.svg')
       format('svg');
   font-weight: 400;
   font-style: normal;
@@ -4051,16 +4051,16 @@ body.custom-background {
 }
 @font-face {
   font-family: FontAwesome;
-  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot%3Fv=4.7.0');
-  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot%3F')
+  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot');
+  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot')
       format('embedded-opentype'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2')
       format('woff2'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff')
       format('woff'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf')
       format('truetype'),
-    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg%3Fv=4.7.0')
+    url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg')
       format('svg');
   font-weight: 400;
   font-style: normal;
@@ -4076,7 +4076,7 @@ body.custom-background {
   font-display: swap;
   font-family: Pe-icon-7-stroke;
   src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot%3Fd7yf1v');
-  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot%3F')
+  src: url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot')
       format('embedded-opentype'),
     url('https://raw.githubusercontent.com/simoneparri/giovannoni40/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff%3Fd7yf1v')
       format('woff'),
