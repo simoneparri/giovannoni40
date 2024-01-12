@@ -4056,14 +4056,14 @@ body.custom-background {
 @font-face {
   font-display: swap;
   font-family: Pe-icon-7-stroke;
-  src: url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot%3Fd7yf1v');
+  src: url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot');
   src: url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot')
       format('embedded-opentype'),
-    url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff%3Fd7yf1v')
+    url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff')
       format('woff'),
-    url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf%3Fd7yf1v')
+    url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf')
       format('truetype'),
-    url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg%3Fd7yf1v')
+    url('../../wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg')
       format('svg');
   font-weight: 400;
   font-style: normal;
