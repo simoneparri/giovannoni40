@@ -80,17 +80,17 @@ function openNewsletterSlider(newsletterSlider = 'newsletter-signup-general') {
     }
     if (window.location.search === '?plugin-newsletter' || window.location.search === '?newsletter') checkLocations();
     jQuery(document).on('click', '#rs-templateclose', function () {
-      punchgs.TweenLite.to(['#masthead'], 0.5, { overflow: 'hidden', height: 0, ease: punchgs.Power3.easeInOut });
-      punchgs.TweenLite.to(['#content'], 0.5, {
+      punchgs.TweenLite.to(['#masthead'], 0.0, { overflow: 'hidden', height: 0, ease: punchgs.Power3.easeInOut });
+      punchgs.TweenLite.to(['#content'], 0.0, {
         overflow: 'hidden',
         marginTop: 0,
         ease: punchgs.Power3.easeInOut,
         onComplete: function () {
-          jQuery('#masthead').remove();
-          punchgs.TweenLite.to(jQuery('.rs-pos-fixed').closest('rs-fullwidth-wrap'), 0.5, { top: 0 });
+          //   jQuery('#masthead').remove();
+          punchgs.TweenLite.to(jQuery('.rs-pos-fixed').closest('rs-fullwidth-wrap'), 0.0, { top: 0 });
         },
       });
-      punchgs.TweenLite.to(['.th-fixed rs-loop-wrap', '.respect-fixedstatic rs-static-layers rs-loop-wrap'], 0.5, {
+      punchgs.TweenLite.to(['.th-fixed rs-loop-wrap', '.respect-fixedstatic rs-static-layers rs-loop-wrap'], 0.0, {
         y: 0,
         ease: punchgs.Power3.easeInOut,
         onUpdate: function () {
@@ -450,7 +450,6 @@ function openNewsletterSlider(newsletterSlider = 'newsletter-signup-general') {
   }
   return s;
 });
-document.querySelector('#rs-templateclose').click();
 
 /**
  * sticky-sidebar - A JavaScript plugin for making smart and high performance.

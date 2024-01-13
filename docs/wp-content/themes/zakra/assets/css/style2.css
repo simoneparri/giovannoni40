@@ -1668,6 +1668,7 @@ select {
 .tg-site-header-bottom {
   padding-top: 1em;
   padding-bottom: 1em;
+  min-height: 900px;
 }
 .site-branding {
   display: -webkit-box;
@@ -2615,11 +2616,11 @@ p.largep {
 .rs-templateheader #templatetitle {
   font-size: 18px;
   font-weight: 600;
-  line-height: 20px;
+  /* line-height: 20px; */
   padding: 20px 0;
   text-align: center;
-  position: absolute;
-  width: 600px;
+  /* position: absolute; */
+  width: 100%;
   left: calc(50% - 300px);
   color: #fff;
   margin-bottom: 0;
@@ -3542,9 +3543,9 @@ input[type='checkbox'].toggle {
   }
   .rs-templateheader #templatetitle {
     font-size: 40px;
-    left: 180px;
+    /* left: 180px; */
     text-align: center;
-    display: none;
+    /* display: none; */
   }
   .rs-templateheader #rs-templatebuy {
     right: 92px;
@@ -3553,7 +3554,7 @@ input[type='checkbox'].toggle {
     right: 53px;
   }
   .rs-templateheader #rs-templateclose {
-    right: 22px;
+    right: 45%;
   }
   .alignfull {
     left: 0;
