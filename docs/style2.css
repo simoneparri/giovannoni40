@@ -2654,7 +2654,7 @@ p.largep {
   background-image: url('/giovannoni40/wp-content/uploads/2020/04/overviewlarge.png');
 }
 .rs-templateheader #rs-templateclose {
-  right: 0;
+  right: 47.5%;
   background-image: url('/giovannoni40/wp-content/uploads/2020/04/closerlargex.png');
 }
 .respect-fixedstatic rs-static-layers > .rs-parallax-wrap > rs-loop-wrap,
@@ -3660,7 +3660,7 @@ input[type='checkbox'].toggle {
     right: 40px;
   }
   .rs-templateheader #rs-templateclose {
-    right: 0;
+    /* right: 0; */
   }
   .alignfull {
     margin: 0;
