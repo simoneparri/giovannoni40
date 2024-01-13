@@ -3649,7 +3649,7 @@ input[type='checkbox'].toggle {
     box-shadow: 0 20px 50px 0 rgba(28, 9, 80, 0.07);
   }
   .rs-templateheader #templatetitle {
-    font-size: 18px;
+    font-size: 40px;
     left: calc(50% - 300px);
     text-align: center;
   }
