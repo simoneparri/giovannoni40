@@ -3554,9 +3554,7 @@ input[type='checkbox'].toggle {
     right: 53px;
   }
   .rs-templateheader #rs-templateclose {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    right: 47.5%;
   }
   .alignfull {
     left: 0;
